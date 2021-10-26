@@ -1,5 +1,5 @@
 ### Hi I'm skull 👋
-<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/home1.gif" width=100% height="500"></img>
+<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/home1.gif" width=100% height="450"></img>
 <!--
 **DHDAXCW/DHDAXCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
