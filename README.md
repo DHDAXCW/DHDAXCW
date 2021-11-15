@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 <!-- ![zhusir's github stats](https://github-readme-stats.vercel.app/api?username=DHDAXCW&show_icons=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHDAXCW) -->
 
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DHDAXCW&show_icons=true&count_private=true" />
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHDAXCW" />
+</a>
 
 ### 传送门
 - DoorNet1：https://github.com/DHDAXCW/DoorNet_Series/releases
