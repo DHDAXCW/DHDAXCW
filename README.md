@@ -21,4 +21,13 @@ Here are some ideas to get you started:
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHDAXCW" />
 </a>
-# 传送
+
+
+# 传送门
+- DoorNet1：https://github.com/DHDAXCW/DoorNet_Series/releases
+- DoorNet2：https://github.com/DHDAXCW/DoorNet2/releases
+- NanoPi-R4S: https://github.com/DHDAXCW/NanoPi-R4S-2021/releases
+- NanoPi-R2S: https://github.com/DHDAXCW/NanoPi-R2S-2021/releases
+- NanoPi-R2C: https://github.com/DHDAXCW/NanoPi-R2C/releases
+- x86: https://github.com/DHDAXCW/FusionWRT_x86_x64/releases
+- huake-g4c:https://github.com/DHDAXCW/guangmiao-g4c/releases
