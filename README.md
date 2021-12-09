@@ -1,11 +1,11 @@
 ### Hi I'm skull 👋
 <img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/home1.gif" width=100% height="500"></img>
 <!--
-![hello](https://views.whatilearened.today/views/github/deplives/deplives.svg)
+![hello](https://views.whatilearened.today/views/github/DHDAXCW/deplives.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=deplives&hide=stars&show_icons=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api?username=DHDAXCW&hide=stars&show_icons=true&theme=nord)
 
-![](https://raw.githubusercontent.com/deplives/deplives/output/github-snake.svg)
+![](https://raw.githubusercontent.com/DHDAXCW/DHDAXCW/output/github-snake.svg)
 
 # 传送门
 - DoorNet1：https://github.com/DHDAXCW/DoorNet_Series
