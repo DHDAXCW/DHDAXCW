@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DHDAXCW&show_icons=true&count_private=true" />
 </a>
+![](https://raw.githubusercontent.com/deplives/deplives/output/github-snake.svg)
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHDAXCW" />
 </a>
