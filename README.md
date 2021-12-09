@@ -2,7 +2,11 @@
 ### Hi I'm skull 👋
 ![hello](https://views.whatilearened.today/views/github/DHDAXCW/deplives.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=DHDAXCW&hide=["issues","prs"]&show_icons=true")
+<p align="center">
+    <a href="https://github.com/DHDAXCW">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DHDAXCW&hide=["issues","prs"]&show_icons=true" />
+    </a>
+</p>
 
 ![](https://raw.githubusercontent.com/DHDAXCW/DHDAXCW/output/github-snake.svg)
 
