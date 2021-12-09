@@ -5,6 +5,9 @@
 
 ![](https://raw.githubusercontent.com/DHDAXCW/DHDAXCW/output/github-snake.svg)
 
+### Hi I'm skull 👋
+<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/home1.gif" width=100% height="500"></img>
+<!--
 # 传送门
 - DoorNet1：https://github.com/DHDAXCW/DoorNet_Series
 - DoorNet2：https://github.com/DHDAXCW/DoorNet2
