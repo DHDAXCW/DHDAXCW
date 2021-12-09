@@ -12,7 +12,7 @@
 
 <img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/home1.gif" width=100% height="500"></img>
 
-<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/lsusb.gif" count_private=false&bg_color=30></img>
+<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/lsusb.gif" width=100% height="1000"></img>
 
 # 传送门
 - DoorNet1：https://github.com/DHDAXCW/DoorNet_Series
