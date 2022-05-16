@@ -1,6 +1,7 @@
 
 ### Hi I'm skull 👋
 ![hello](https://views.whatilearened.today/views/github/DHDAXCW/deplives.svg)
+![IP签名](https://tool.lu/netcard/)
 
 <p align="center">
     <a href="https://github.com/DHDAXCW">
