@@ -2,7 +2,7 @@
 ### Hi I'm skull 👋
 ![hello](https://views.whatilearened.today/views/github/DHDAXCW/deplives.svg)
 
-<img src="https://tool.lu/netcard/" width=80% height="100">
+<img src="https://tool.lu/netcard/" width=100% height="200">
 
 <p align="center">
     <a href="https://github.com/DHDAXCW">
