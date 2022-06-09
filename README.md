@@ -26,4 +26,4 @@
 - NanoPi-R2C-Plus: https://github.com/DHDAXCW/NanoPi-R2C
 - x86: https://github.com/DHDAXCW/FusionWRT_x86_x64
 - huake-g4c:https://github.com/DHDAXCW/guangmiao-g4c
-### 机场推荐 https://i.ok4.icu/ExU6
+### 机场推荐 https://i.73sd.top/ExU6
