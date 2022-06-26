@@ -23,7 +23,7 @@
 - DoorNet2：https://github.com/DHDAXCW/DoorNet2 RK3399,DDR3L 1GB/LPDDR4 4GB,eMMC 8G
 - NanoPi-R4S: https://github.com/DHDAXCW/NanoPi-R4S RK3399,DDR3 1GB/LDDR4 GB
 - NanoPi-R2S: [https://github.com/DHDAXCW/NanoPi-R2S](https://github.com/DHDAXCW/NanoPi-R2S-rk3328) RK3328,DDR4 1GB
-- NanoPi-R2C-Plus: https://github.com/DHDAXCW/NanoPi-R2C RK3328,DDR4 1
+- NanoPi-R2C-Plus: https://github.com/DHDAXCW/NanoPi-R2C RK3328,DDR4 1GB
 - x86: https://github.com/DHDAXCW/FusionWRT_x86_x64 
 - huake-g4c:https://github.com/DHDAXCW/guangmiao-g4c 已废
 ### 机场推荐 https://i.73sd.top/ExU6
