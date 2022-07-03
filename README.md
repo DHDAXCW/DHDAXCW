@@ -26,4 +26,4 @@
 - NanoPi-R2C-Plus: https://github.com/DHDAXCW/NanoPi-R2C RK3328,DDR4 1GB
 - x86: https://github.com/DHDAXCW/FusionWRT_x86_x64 
 - huake-g4c:https://github.com/DHDAXCW/guangmiao-g4c 已废
-### 机场推荐 [https://www.easy2022.com](https://www.easy2022.com/#/register?code=Ut7iWMrk)
+### 机场推荐 [ENET](https://www.easy2022.com/#/register?code=Ut7iWMrk)
