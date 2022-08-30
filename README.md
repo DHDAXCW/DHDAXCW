@@ -28,6 +28,7 @@
 **NanoPi-R2S** https://github.com/DHDAXCW/NanoPi-R2S-rk3328      <img src="https://img.shields.io/github/downloads/DHDAXCW/NanoPi-R2S-rk3328/total.svg?style=for-the-badge&color=32C955"/>
 
 **NanoPi-R2C-Plus**  https://github.com/DHDAXCW/NanoPi-R2C        <img src="https://img.shields.io/github/downloads/DHDAXCW/NanoPi-R2C/total.svg?style=for-the-badge&color=32C955"/>
+
 **OpenWRT_x86_x64** https://github.com/DHDAXCW/OpenWRT_x86_x64       <img src="https://img.shields.io/github/downloads/DHDAXCW/OpenWRT_x86_x64/total.svg?style=for-the-badge&color=32C955"/>
 
 **huake-g4c** https://github.com/DHDAXCW/guangmiao-g4c 已废
