@@ -26,5 +26,7 @@
 
 **OpenWRT_x86_x64** https://github.com/DHDAXCW/OpenWRT_x86_x64       <img src="https://img.shields.io/github/downloads/DHDAXCW/OpenWRT_x86_x64/total.svg?style=for-the-badge&color=32C955"/>
 
+**NanoPi-R5S-R5C** https://github.com/DHDAXCW/NanoPi-R5S-R5C       <img src="https://img.shields.io/github/downloads/DHDAXCW/NanoPi-R5S-R5C/total.svg?style=for-the-badge&color=32C955"/>
+
 **rk356x-openwrt** https://github.com/DHDAXCW/lede-6.0          <img src="https://img.shields.io/github/downloads/DHDAXCW/lede-6.0/total.svg?style=for-the-badge&color=32C955"/>
 ### 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2022.com/#/register?code=Ut7iWMrk)
