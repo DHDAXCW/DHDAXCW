@@ -18,6 +18,8 @@
 
 **DoorNet2**https://github.com/DHDAXCW/DoorNet2      <img src="https://img.shields.io/github/downloads/DHDAXCW/DoorNet2/total.svg?style=for-the-badge&color=32C955"/>
 
+**LubanCat-1-1n-2-2n** https://github.com/DHDAXCW/LubanCat-LEDE       <img src="https://img.shields.io/github/downloads/DHDAXCW/LubanCat-LEDE/total.svg?style=for-the-badge&color=32C955"/>
+
 **NanoPi-R4S-R4SE** https://github.com/DHDAXCW/NanoPi-R4S-R4SE        <img src="https://img.shields.io/github/downloads/DHDAXCW/NanoPi-R4S-R4SE/total.svg?style=for-the-badge&color=32C955"/>
 
 **NanoPi-R2S** https://github.com/DHDAXCW/NanoPi-R2S-rk3328      <img src="https://img.shields.io/github/downloads/DHDAXCW/NanoPi-R2S-rk3328/total.svg?style=for-the-badge&color=32C955"/>
@@ -27,8 +29,6 @@
 **OpenWRT_x86_x64** https://github.com/DHDAXCW/OpenWRT_x86_x64       <img src="https://img.shields.io/github/downloads/DHDAXCW/OpenWRT_x86_x64/total.svg?style=for-the-badge&color=32C955"/>
 
 **NanoPi-R5S-R5C** https://github.com/DHDAXCW/NanoPi-R5S-R5C       <img src="https://img.shields.io/github/downloads/DHDAXCW/NanoPi-R5S-R5C/total.svg?style=for-the-badge&color=32C955"/>
-
-**LubanCat-1-1n-2-2n** https://github.com/DHDAXCW/LubanCat-LEDE       <img src="https://img.shields.io/github/downloads/DHDAXCW/LubanCat-LEDE/total.svg?style=for-the-badge&color=32C955"/>
 
 **rk356x-openwrt** https://github.com/DHDAXCW/rk-lede-kernel-6.1          <img src="https://img.shields.io/github/downloads/DHDAXCW/rk-lede-kernel-6.1/total.svg?style=for-the-badge&color=32C955"/>
 ### 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2022.com/#/register?code=Ut7iWMrk)
