@@ -14,9 +14,8 @@
 <img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/0.gif" width=100% height="900"></img>
 
 # 传送门
-**DoorNet1**https://github.com/DHDAXCW/DoorNet_Series        <img src="https://img.shields.io/github/downloads/DHDAXCW/DoorNet_Series/total.svg?style=for-the-badge&color=32C955"/>
 
-**DoorNet2**https://github.com/DHDAXCW/DoorNet2      <img src="https://img.shields.io/github/downloads/DHDAXCW/DoorNet2/total.svg?style=for-the-badge&color=32C955"/>
+**DoorNet-1-2**https://github.com/DHDAXCW/DoorNet-1-2      <img src="https://github.com/DHDAXCW/DoorNet-1-2/total.svg?style=for-the-badge&color=32C955"/>
 
 **LubanCat-1-1n-2-2n** https://github.com/DHDAXCW/LubanCat-LEDE       <img src="https://img.shields.io/github/downloads/DHDAXCW/LubanCat-LEDE/total.svg?style=for-the-badge&color=32C955"/>
 
