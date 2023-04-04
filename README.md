@@ -13,8 +13,6 @@
 
 <img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/0.gif" width=100% height="900"></img>
 
-[![Stargazers over time](https://starchart.cc/bigbugcc/OpenWrts.svg)](https://starchart.cc/bigbugcc/OpenWrts)
-
 # 传送门
 
 **DoorNet-1-2**https://github.com/DHDAXCW/DoorNet-1-2      <img src="https://img.shields.io/github/downloads/DHDAXCW/DoorNet-1-2/total.svg?style=for-the-badge&color=32C955"/>
