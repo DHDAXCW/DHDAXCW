@@ -9,10 +9,6 @@
 
 ![](https://raw.githubusercontent.com/DHDAXCW/DHDAXCW/output/github-snake.svg)
 
-<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/home1.gif" width=100% height="500"></img>
-
-<img src="https://github.com/DHDAXCW/DHDAXCW/blob/main/0.gif" width=100% height="900"></img>
-
 # 传送门
 
 **DoorNet-1-2**https://github.com/DHDAXCW/DoorNet-1-2      <img src="https://img.shields.io/github/downloads/DHDAXCW/DoorNet-1-2/total.svg?style=for-the-badge&color=32C955"/>
